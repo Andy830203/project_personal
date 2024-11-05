@@ -13,3 +13,6 @@ A simple version sports goods selling system
    ```bash
    git clone https://github.com/Andy830203/project_personal.git
 2. run project_personal.sln
+
+## 圖示
+![Alt text](screenshot01.png)
