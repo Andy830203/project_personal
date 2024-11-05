@@ -1,18 +1,22 @@
 # project_personal
 A simple version sports goods selling system
 
-## 功能特點
-- 使用者註冊、登入
-- 商品列表、篩選與排序
-- 商品詳細頁面
-- 購物車功能
-- 訂單管理
+## Features
+- User registration and login
+- Product listing, filtering, and sorting
+- Product details page
+- Shopping cart functionality
+- Order management
 
-## 安裝與執行
-1. Clone 此專案：
+## Installation and Setup
+1. Clone this project：
    ```bash
    git clone https://github.com/Andy830203/project_personal.git
-2. run project_personal.sln
+2. Open and run project_personal.sln
 
-## 圖示
+## Database Structure
+![Alt text](sql_structure.png)
+
+## Screenshots
 ![Alt text](screenshot01.png)
+
