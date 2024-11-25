@@ -13,7 +13,7 @@ A simple version sports goods selling system
 ## **Technologies Used**
 - **Programming Language**: C#.
 - **Framework**: Windows Form App (.NET Framework) / ADO.NET.
-- **Development**: Environment**: Visual Studio 2022.
+- **Development Environment**: Visual Studio 2022.
 - **Database**: Microsoft SQL Server / SQL Server Management System 20.
 
 ---
